@@ -1,11 +1,11 @@
-@import url("https://fonts.googleapis.com/css2?family=Sarpanch&family=Lekton&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&family=Lekton&display=swap");
 @import url('https://use.fontawesome.com/releases/v5.0.10/css/all.css');
 
 body {
   background-color: #f4f4f2;
 }
 h1, h2{
-  font-family: 'Sarpanch';
+  font-family: 'Archivo Black';
   color: #00334e;
   font-size: 34px;
   font-weight: bold;
